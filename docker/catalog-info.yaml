@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: flowman
+  annotations:
+    github.com/project-slug: scMarkus/flowman
+spec:
+  type: other
+  lifecycle: unknown
+  owner: scMarkus
